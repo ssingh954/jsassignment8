@@ -25,4 +25,4 @@ const set1 = new Set(['one', 'two', 'three']);
 
 set1.delete('two');
 
-console.log(set1); // 👉️ {'one', 'three'}
+console.log(set1);
